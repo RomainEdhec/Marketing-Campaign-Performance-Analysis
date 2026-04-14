@@ -1,5 +1,4 @@
-#Importing the data in a raw table
-
+-- Importing the data in a raw table
 
 CREATE TABLE raw_marketing(
     "Income" NUMERIC(10,2),
@@ -41,9 +40,7 @@ CREATE TABLE raw_marketing(
     "AcceptedCmpOverall" INTEGER
 );
 
-
-
-#From the raw table, add new columns which joins several existing columns for greater relevance
+-- From the raw table, add new columns which joins several existing columns for greater relevance
 
 CREATE TABLE clean_marketing AS
 SELECT
@@ -124,7 +121,7 @@ SELECT
 
 FROM raw_marketing;
 
-#Creating a table for specific marketing features
+-- Creating a table for specific marketing features
 
 CREATE TABLE marketing_features AS
 WITH base AS(
@@ -215,6 +212,3 @@ SELECT
     ROUND(customer_days::numeric / 365, 2) AS customer_tenure_years
 
 FROM base;
-
-
-
