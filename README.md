@@ -96,8 +96,14 @@ Tools Used :
 
 PgAdmin : postgreSQL platform (data preparation, feature engineering, KPI identification)
 
+SQL : https://github.com/RomainEdhec/Marketing-Campaign-Performance-Analysis/tree/main/Sql
+
 Excel : display of results 
 
+Excel : https://github.com/RomainEdhec/Marketing-Campaign-Performance-Analysis/tree/main/Data_outputs
+
 Tableau : data visualization
+
+Dashboard : https://github.com/RomainEdhec/Marketing-Campaign-Performance-Analysis/blob/main/Dashboard/Dashboard%20Screenshot.png
 
 
