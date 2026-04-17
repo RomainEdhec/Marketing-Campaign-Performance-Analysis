@@ -4,7 +4,7 @@ This project analyszes a marketing campaign dataset to understand customer behav
 
 The objective is to uncover actionable insights that can help optimize targeting, improve campaign performance, and maximize revenue.
 
-Business main objectives : 
+# Business main objectives : 
 
 -Identify which cusotmer segments geneate the most revenue
 
@@ -24,7 +24,7 @@ The dataset contains customer-level information, including :
 
 -Product category (including premium products)
 
-Data preparation :
+# Data preparation :
 
 The analysis was conducted using SQL with a structured pipeline :
 
@@ -36,7 +36,7 @@ The analysis was conducted using SQL with a structured pipeline :
 
 -Total spending, total purchase, average basket value, premium product ratio, etc.
 
-Key Performance Indicators (KPIs) :
+# Key Performance Indicators (KPIs) :
 
 1. Marketing Performance :
 
@@ -64,7 +64,7 @@ Key Performance Indicators (KPIs) :
 
    -Revenue contribution by segment
 
-Analytical approach :
+# Analytical approach :
 
 KPIs are first computed at a global level and then compared across key segments :
 
@@ -92,7 +92,7 @@ The analysis aims to support accurate decision-making by answering :
 
 -Where should marketing efforts be focused : volums or value ?
 
-Tools Used :
+# Tools Used :
 
 PgAdmin : postgreSQL platform (data preparation, feature engineering, KPI identification)
 
