@@ -1,6 +1,6 @@
-Results and Business recommandations :
+# Results and Business recommandations :
 
-SUMMARY :
+# SUMMARY :
 
 -High income customers generate the majority of revenue (71%) and show the highest engagement with marketing camapaigns (highest response rate, 24%), making them primary target for value-driven strategies
 
@@ -10,7 +10,7 @@ SUMMARY :
 
 -A strong overlap exists between income and education levels (high income is linked with master/PhD, whereas low income is linked with Basic/2nd cycle), suggesting income is the primary driver of behavior.
 
-DETAILED ANALYSIS : 
+# DETAILED ANALYSIS : 
 
 1. Revenue Contribution & Customer Value
 
@@ -75,7 +75,7 @@ Low income customers are more represented in lower education levels
 
 This indicates that education acts as a proxy for income, and that income remains the most relevant segmentation variable.
 
-Business Recommandations : 
+# Business Recommandations : 
 
 1. Prioritize High Income Segments (value strategy)
 
