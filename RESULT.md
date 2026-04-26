@@ -4,9 +4,9 @@
 
 -High income customers generate the majority of revenue (71%) and show the highest engagement with marketing camapaigns (highest response rate, 24%), making them primary target for value-driven strategies
 
--Low income customers however, are more price-sensitive, with a higher proportion of purchases made using discountts and a premium product share of 29% vs 13% and 7% for medium and high incomer, suggesting more targeted or promotion-driven purchases
+-Low income customers however, are more price-sensitive, with a higher proportion of purchases made using discounts and a premium product share of 29% vs 13% and 7% for medium and high incomer, suggesting more targeted or promotion-driven purchases
 
--Marital status has limited ipract on customer behavior, with relatively homogenous results across groups, indicating it is not a strong segmentation variable.
+-Marital status has limited impact on customer behavior, with relatively homogenous results across groups, indicating it is not a strong segmentation variable.
 
 -A strong overlap exists between income and education levels (high income is linked with master/PhD, whereas low income is linked with Basic/2nd cycle), suggesting income is the primary driver of behavior.
 
